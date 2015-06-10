@@ -1,0 +1,24 @@
+{
+  "name": "AngularJSMapWidget",
+  "version": "1.0.0",
+  "description": "Angular JS Map Widget For ArcGIS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sujata-patne/AngularJSMapWidget.git"
+  },
+  "keywords": [
+    "Angularjs",
+    "Map",
+    "Widget"
+  ],
+  "author": "Sujata Halwai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujata-patne/AngularJSMapWidget/issues"
+  },
+  "homepage": "https://github.com/sujata-patne/AngularJSMapWidget"
+}
